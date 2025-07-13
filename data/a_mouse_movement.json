@@ -1,0 +1,63 @@
+{
+    "task_name": "Mouse Movement",
+    "app_name": "A",
+    "points": [
+        {
+            "box_index": 3,
+            "click_type": "right",
+            "click_count": 1,
+            "time": 0.5707528591156006,
+            "deviation": 31.43930587771348
+        },
+        {
+            "box_index": 8,
+            "click_type": "left",
+            "click_count": 1,
+            "time": 0.6223936080932617,
+            "deviation": 13.945978423620106
+        },
+        {
+            "box_index": 1,
+            "click_type": "right",
+            "click_count": 1,
+            "time": 0.6667017936706543,
+            "deviation": 42.198967405679014
+        },
+        {
+            "box_index": 2,
+            "click_type": "left",
+            "click_count": 1,
+            "time": 0.8565506935119629,
+            "deviation": 5.11864406779661
+        },
+        {
+            "box_index": 6,
+            "click_type": "left",
+            "click_count": 2,
+            "time": 1.2335362434387207,
+            "deviation": 25.48995289615505
+        },
+        {
+            "box_index": 9,
+            "click_type": "right",
+            "click_count": 1,
+            "time": 0.6385984420776367,
+            "deviation": 11.114285714285714
+        },
+        {
+            "box_index": 7,
+            "click_type": "left",
+            "click_count": 1,
+            "time": 0.5779647827148438,
+            "deviation": 13.744186046511627
+        },
+        {
+            "box_index": 4,
+            "click_type": "left",
+            "click_count": 1,
+            "time": 0.44007444381713867,
+            "deviation": 19.391304347826086
+        }
+    ],
+    "total_time": 5.609928846359253
+}

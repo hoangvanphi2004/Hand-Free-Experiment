@@ -55,7 +55,7 @@ class PingPongPage(tk.Frame):
 
     def setup_game(self):
         self.score_label.config(text="score: " + str(self.score))
-        if self.game_count == 10:
+        if self.game_count == 4:
             self.data["total_wins"] = self.total_win
             self.data["total_games"] = self.game_count
             with open("./data/" + self.data["app_name"].lower().replace(" ", "_") + "_" + self.data["task_name"].lower().replace(" ", "_") + ".json", "w", encoding="utf-8") as f:
